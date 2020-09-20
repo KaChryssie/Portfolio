@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .topnav {
     overflow: hidden;
     background-color: rgb(196, 190, 190);
@@ -55,8 +58,7 @@
 .footer {
     margin-top: 100px;
     padding: 50px;
-    width: 100%;
-    background-color: rgba(7, 7, 7, 0.918);
-    color: rgb(252, 248, 248);
+    background-color: rgb(196, 190, 190);
+    color: black;
     text-align: center;
   }
